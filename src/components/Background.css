@@ -1,0 +1,50 @@
+
+.background {
+    height: 100vh;
+    min-height: 450px;
+    min-width: 900px;
+    background:  linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    margin-left: auto;
+    margin-right: auto;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .main {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 0 30px 30px rgba(0, 0, 0, 0.25);
+    position: absolute;
+  }
+  
+  .illustration_container {
+    position: relative;
+    height: 435px;
+    width: 865px;
+  }
+  
+  .illustration_container::before {
+    content: url('./psevdoElementImg/illustration-box-desktop.svg');
+    position: absolute;
+    left: -14%;
+    top: 37%;
+    z-index: 1000;
+  }
+  
+  .bg-img {
+    width: 90%;
+    margin-top: -25%;
+    margin-left: -45%;
+  }
+  
+  .illustration {
+    display: block;
+    margin-top: -60%;
+    margin-left: -10%;
+  }
+  

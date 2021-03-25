@@ -12,6 +12,6 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/screenshot1)
+![](https://github.com/nickname038/FAQ-accordion-card/blob/main/screenshots/screenshot1.png)
 
-![](./screenshots/screenshot2)
+![](https://github.com/nickname038/FAQ-accordion-card/blob/main/screenshots/screenshot2.png)

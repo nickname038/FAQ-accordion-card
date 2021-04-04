@@ -1,0 +1,10 @@
+.title {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.faq {
+    position: absolute;
+    left: 50%;
+    right: 10%;
+}
